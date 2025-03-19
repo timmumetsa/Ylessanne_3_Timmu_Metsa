@@ -39,3 +39,4 @@ while running:
     pygame.display.flip()  # Uuendab ekraani
 
 pygame.quit()  # Sulgeb PyGame'i
+
